@@ -3,16 +3,16 @@
   }
   
   body {
-    background-color: #f2f2f2;
+    background-color: #043e42;
     font-family: "Helvetica", sans-serif;
   }
   
   .container {
-    background-color: white;
+    background-color: rgb(8, 62, 156);
     max-width: 600px;
     margin: 100px auto;
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(223, 234, 103, 0.2);
     border-radius: 10px;
   }
   
@@ -23,15 +23,15 @@
   
   input {
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #47034b;
     border-radius: 4px;
     margin: 10px 0;
     width: 100%;
   }
   
   button {
-    background-color: #4caf50;
-    color: white;
+    background-color: #4e30a1;
+    color: rgb(5, 50, 61);
     padding: 10px;
     border: none;
     cursor: pointer;
